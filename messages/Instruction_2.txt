@@ -1,0 +1,10 @@
+Odpowiedzi będziesz udzielać za pomocą klawiszy, do których przypisane będą określone kolory:
+
+Z: zielony
+X: niebieski
+M: Czerwony
+N: żółty
+
+Postaraj się udzielać odpowiedzi jak najszybciej. 
+
+Aby przejść dalej naciśnij spację.

@@ -1,0 +1,3 @@
+Twoim zadaniem będzie odpowiadanie na pytanie o kolor czcionki, którą będą zapisane wyświetlane słowa, ignorując ich znaczenie. Każde słowo będzie poprzedzone punktem fiksacji (krzyżykiem). Kiedy się pojawi, skup na nim wzrok. Słowo pojawi się w centrum ekranu.
+
+Aby przejść dalej naciśnij spację.

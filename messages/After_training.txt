@@ -1,0 +1,5 @@
+To koniec treningu. W kolejnych częściach nie będziesz już dostawać informacji zwrotnej o poprawności odpowiedzi. 
+
+Główna część zadania składa się z trzech bloków, pomiędzy którymi będziesz mieć możliwość zrobienia sobie krótkiej przerwy. Przed każdym blokiem wyświetli się ekran z przypomnieniem, który klawisz przypisany jest do którego koloru.
+
+Jeżeli masz pytania zadaj je teraz eksperymentatorowi. Jeżeli nie, naciśnij spację, aby przejść do zadania.

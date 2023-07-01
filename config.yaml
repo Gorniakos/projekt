@@ -1,0 +1,17 @@
+# All values in no of frames
+BACKGROUND_COLOR: darkgrey
+FRAME_RATE: 60
+SCREEN_RES: [1440, 900]
+FIX_CROSS_TIME: 1
+NO_TRAINING_TRIALS: [5, 1]
+TRIALS_IN_BLOCK: 5
+NO_BLOCKS: 1
+TRAINING_CSI: 10
+FIX_CROSS_COLOR: 'black'
+STIM_SIZE: 25
+STIM_TIME: 300
+REACTION_KEYS: [z, x, n, m]
+CSI_BAND: [13, 18]
+STIM_COLOR: [yellow, green, blue, red]
+STIM_WORD: ["żółty", "zielony", "niebieski", "czerwony"]
+CONTROL_WORD: ["szklany", "jasny", "kwiatowy", "drewniany"]
